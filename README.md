@@ -7,5 +7,3 @@ This repository contains the APKBUILD files for packaging [XLibre](https://githu
 1. Package for aarch64
 
 2. Package for i686
-
-3. Package amd64
